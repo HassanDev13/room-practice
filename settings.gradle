@@ -1,3 +1,2 @@
 include ':app'
-rootProject.name = "Simple POST request on Android Kotlin using Retrofit "
-git@github.com:HassanDev13/Simple-POST-request-on-Android-Kotlin-using-Retrofit.git
+rootProject.name = "Retrofit-Kotlin-Coroutines-Example-recyclerview "
