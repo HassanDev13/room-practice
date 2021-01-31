@@ -34,6 +34,8 @@ android {
 
 dependencies {
 //Retrofit Libraries
+    implementation 'com.jakewharton.picasso:picasso2-okhttp3-downloader:1.1.0'
+    implementation 'com.jakewharton.timber:timber:4.7.1'
     implementation 'com.squareup.retrofit2:retrofit:2.7.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.7.0'
     implementation "com.squareup.retrofit2:converter-moshi:2.0.0"
