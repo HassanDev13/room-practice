@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Retrofit-Kotlin-Coroutines-Example-recyclerview "
+rootProject.name = "Hassan School"
